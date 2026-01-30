@@ -6,6 +6,7 @@ This is an unordered list with resources for PhD candidates and their supervisor
 - [Golden Rules in PhD Supervision](https://www.universiteitleiden.nl/binaries/content/assets/sociale-wetenschappen/graduate-school-fsw/supervisors/golden-rules-in-phd-supervision.pdf)
 - [Module on social safety](https://share.articulate.com/886ogqVql43SNvayQMPm-)
 - [SWOT analysis for PhD candidates](https://phdcompetencemodel.nl/)
+- [Collaboration Agreement Template](https://zenodo.org/records/6394789)
 
 
 Thanks to everybody who contributed! If you know of a resource that could be mentioned here, please don't hesitate to get in touch or file a PR.
